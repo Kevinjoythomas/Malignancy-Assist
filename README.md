@@ -4,7 +4,7 @@ In this breast cancer detection project, I embarked on a journey to design predi
 
 ### Goal 🎯
 
-The main goal was to create a model that could tell the difference between harmful and non-harmful breast cells. I used two different methods: one that's a technique in math called logistic regression, and another that's more like how our brains work, called a deep learning neural network. Both were aimed at making sure these programs were very good at spotting the dangerous cells early on. This could help doctors find potential problems sooner and take steps to stop breast cancer from developing.
+The main goal was to construct a model capable of distinguishing between cancerous (malignant) and non-harmful (benign) breast cells. I used two different methods: one that's a technique in math called logistic regression, and another that's more like how our brains work, called a deep learning neural network. Both were aimed at making sure these programs were very good at spotting the dangerous cells early on. This could help doctors find potential problems sooner and take steps to stop breast cancer from developing.
 
 ### Models Implemented 🧠
 
